@@ -1,0 +1,121 @@
+TITLE	Phd61-73_0-15TD
+DATA TYPE	
+ORIGIN	JASCO
+OWNER	
+DATE	16/09/08
+TIME	13:01:57
+SPECTROMETER/DATA SYSTEM	
+LOCALE	1033
+XUNITS	Temperature[C]
+YUNITS	CD [mdeg]
+Y2UNITS	HT [V]
+FIRSTX	    3.7700
+LASTX	   93.0100
+NPOINTS	      47
+XYDATA
+3.7700	-5.08662	311.307
+5.5600	-4.99609	311.302
+7.5800	-5.03695	311.301
+9.6000	-4.92407	311.339
+11.6200	-4.86735	311.382
+13.6500	-5.01728	311.418
+15.6700	-4.74852	311.408
+17.7100	-4.93651	311.44
+19.7900	-5.07455	311.482
+21.7900	-5.18904	311.468
+23.7800	-5.1099	311.481
+25.8000	-4.86486	311.508
+27.8200	-5.09103	311.508
+29.8400	-4.84975	311.525
+31.8600	-5.04383	311.51
+33.8800	-5.08262	311.493
+35.8900	-5.36197	311.493
+37.9000	-5.02192	311.486
+39.9000	-5.08811	311.473
+41.9200	-5.20267	311.494
+43.9200	-5.28597	311.455
+45.9300	-5.34114	311.452
+47.9100	-4.98337	311.435
+49.8800	-5.03895	311.422
+51.8100	-5.12858	311.41
+53.6900	-5.21542	311.388
+55.6400	-5.34053	311.379
+57.5000	-5.04865	311.369
+59.2600	-5.1083	311.364
+61.0400	-5.3637	311.425
+62.6900	-5.38086	311.39
+64.5500	-5.1987	311.386
+66.3400	-5.31198	311.387
+68.3900	-5.32086	311.355
+70.2000	-5.02611	311.297
+72.0800	-5.33284	311.256
+74.0100	-4.97476	311.204
+75.8800	-5.28802	311.203
+77.9000	-5.41572	311.208
+79.7200	-5.15935	311.241
+81.9000	-5.10774	311.243
+83.5400	-5.70935	311.25
+85.7200	-5.38533	311.273
+87.5900	-5.35404	311.293
+89.0200	-5.2977	311.346
+91.0200	-5.17785	311.394
+93.0100	-4.92631	311.465
+
+##### Extended Information
+[Comments]
+Sample name	Phd61-73_0-15TD
+Comment
+User
+Division
+Company	University of Ljubljana
+
+[Detailed Information]
+Creation date	9/8/2016 1:01 PM
+
+Data array type	Non-linear data array * 2
+Horizontal axis	Temperature [C]
+Vertical axis(1)	CD [mdeg]
+Vertical axis(2)	HT [V]
+Start	3.77 C
+End	93.01 C
+Data points	47      
+
+[Measurement Information]
+Instrument name	J-1500 CD Spectrometer
+Model name	J-1500
+Serial No.	A020361638
+
+Detector	PM-539
+Detector S/N	A020361638
+  Lock-in amp.	X mode
+  HT volt	Auto
+
+Detector	FDT-538
+Detector S/N	A004361739
+  Lock-in amp.	X mode
+  HT volt	0 V
+
+Accessory	MPTC-511
+Accessory S/N	A001561652
+  Cell	4
+  Control sonsor	Holder
+  Monitor sensor	Cell 1
+  Start Mode	Keep target temperature +/-0.10 deg C while 10 seconds
+
+Accessory	FMO-522
+Accessory S/N	A005461740
+
+Measurement date	9/8/2016 1:01 PM
+
+Photometric mode	CD, HT
+CD scale	200 mdeg/1.0 dOD
+FL scale	200 mdeg/1.0 dOD
+D.I.T.	8 sec
+Bandwidth	1.00 nm
+Monitor wavelength	222 nm
+Em wavelength	350 nm
+Baseline correction	None
+Shutter control	Auto
+
+Concentration	0.1 mol/L
+

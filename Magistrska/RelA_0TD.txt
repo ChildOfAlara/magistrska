@@ -1,0 +1,121 @@
+TITLE	FCP1_40_RelA_0_10TD
+DATA TYPE	
+ORIGIN	JASCO
+OWNER	
+DATE	16/08/29
+TIME	13:51:36
+SPECTROMETER/DATA SYSTEM	
+LOCALE	1033
+XUNITS	Temperature[C]
+YUNITS	CD [mdeg]
+Y2UNITS	HT [V]
+FIRSTX	    4.0600
+LASTX	   96.1200
+NPOINTS	      47
+XYDATA
+4.0600	-4.29226	293.396
+6.0900	-3.95582	293.405
+8.0900	-4.17362	293.401
+10.0800	-4.01952	293.46
+12.0800	-3.79946	293.454
+14.0800	-3.85253	293.419
+16.0800	-3.59311	293.406
+18.1200	-3.67808	293.504
+20.2100	-3.70935	293.523
+22.1300	-3.67193	293.564
+24.0900	-3.67828	293.62
+26.0800	-3.68603	293.589
+28.0700	-3.64157	293.599
+30.0700	-3.65029	293.603
+32.0800	-3.59126	293.65
+34.0800	-3.68866	293.681
+36.0700	-3.6626	293.762
+38.0700	-3.60567	293.78
+40.0700	-3.52006	293.812
+42.0700	-3.83798	293.816
+44.0800	-3.9547	293.857
+46.0800	-3.71736	293.869
+48.0700	-3.65964	293.909
+50.0700	-3.64532	293.87
+52.0700	-3.90483	293.958
+54.0700	-3.68625	293.911
+56.0700	-3.84382	293.898
+58.0600	-3.87754	293.948
+60.0700	-3.88496	293.961
+62.0600	-3.79808	293.943
+64.0700	-3.98867	294.038
+66.0700	-4.0478	294.082
+68.0600	-4.01503	294.167
+70.0700	-3.82775	294.237
+72.0700	-4.09381	294.239
+74.0600	-4.12894	294.335
+76.0600	-4.02435	294.415
+78.0600	-4.04179	294.543
+80.0900	-3.94876	294.576
+82.0900	-4.10164	294.665
+84.0800	-4.25646	294.804
+86.1000	-4.29554	294.865
+88.1000	-4.21328	294.914
+90.1000	-4.31352	295.038
+92.1100	-4.27334	295.17
+94.1100	-4.14267	295.251
+96.1200	-4.38857	295.427
+
+##### Extended Information
+[Comments]
+Sample name	FCP1_40_RelA_0_10TD
+Comment
+User
+Division
+Company	University of Ljubljana
+
+[Detailed Information]
+Creation date	8/29/2016 1:51 PM
+
+Data array type	Non-linear data array * 2
+Horizontal axis	Temperature [C]
+Vertical axis(1)	CD [mdeg]
+Vertical axis(2)	HT [V]
+Start	4.06 C
+End	96.12 C
+Data points	47      
+
+[Measurement Information]
+Instrument name	J-1500 CD Spectrometer
+Model name	J-1500
+Serial No.	A020361638
+
+Detector	PM-539
+Detector S/N	A020361638
+  Lock-in amp.	X mode
+  HT volt	Auto
+
+Detector	FDT-538
+Detector S/N	A004361739
+  Lock-in amp.	X mode
+  HT volt	0 V
+
+Accessory	MPTC-511
+Accessory S/N	A001561652
+  Cell	2
+  Control sonsor	Holder
+  Monitor sensor	Holder
+  Start Mode	Keep target temperature +/-0.10 deg C while 10 seconds
+
+Accessory	FMO-522
+Accessory S/N	A005461740
+
+Measurement date	8/29/2016 1:51 PM
+
+Photometric mode	CD, HT
+CD scale	200 mdeg/1.0 dOD
+FL scale	200 mdeg/1.0 dOD
+D.I.T.	8 sec
+Bandwidth	1.00 nm
+Monitor wavelength	222 nm
+Em wavelength	350 nm
+Baseline correction	None
+Shutter control	Auto
+
+Concentration	0.1 mol/L
+
